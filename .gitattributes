@@ -1,0 +1,7 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
+AutoCompany_v6.0/Assets/* filter=lfs diff=lfs merge=lfs -text
+AutoCompany_v6.0/Assets/Mozilla[[:space:]]Firefox/* filter=lfs diff=lfs merge=lfs -text
+AutoCompany_v6.0/Assets/Mozilla[[:space:]]Firefox/xul.dll filter=lfs diff=lfs merge=lfs -text
