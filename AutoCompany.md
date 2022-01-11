@@ -1,5 +1,3 @@
-#File điều khiển phát hành AutoCompany
-Công tắt điều khiển phiên bản : [[[1]]]
-Lời nhắn đến giao diện : {{{Error}}}
-Trạng thái phát hành : 1~Phát hành | 0~Ngưng phát hành
-
+1. Switch Button : [[[1]]]
+2. Messages to UI : {{{Messages}}}
+3. Note : // If "1" : Open // If "0" : close
